@@ -1,0 +1,19 @@
+[
+  {
+    "name": "Professor Dr. Sharmin Parveen",
+    "role": "Professor",
+    "department": "Computer Science and Engineering",
+    "university": "State University of Bangladesh",
+    "email": "sharmin.cse@sub.edu.bd",
+    "qualification": "PhD (India); MPhil (DU); M.Sc and B.Sc in Applied Physics and Electronics (DU)"
+  },
+  {
+    "name": "Shah Reza M Fahad Hossain",
+    "role": "Proctor and Assistant Professor",
+    "department": "Computer Science and Engineering",
+    "university": "State University of Bangladesh",
+    "email": "shahreza.cse@sub.edu.bd",
+    "qualification": "MSc. in Mobile Computing and Communications, University of Greenwich (UK); BSc. in CSE, KUET",
+    "focus": "Cyber Security, Blockchain, Machine Learning"
+  }
+]

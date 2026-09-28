@@ -1,0 +1,6 @@
+{
+  "tag": "B.Sc. Thesis",
+  "title": "An Explainable Clinical Decision Support System for Patient Risk Stratification with Complete and Partial Diagnostic Panels: A Comparative Study of Explainable Boosting Machines and a Hierarchical Additive Deep Network",
+  "description": "A two-phase explainable clinical decision support system combining classical ML and a custom deep learning architecture with SHAP and LIME explainability to predict patient risk levels under complete and partial diagnostic panels.",
+  "supervisor": "Prof. Dr. Sharmin Parveen, Dept. of CSE, State University of Bangladesh"
+}

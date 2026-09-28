@@ -1,0 +1,54 @@
+[
+  {
+    "period": "2025 to present",
+    "role": "President, SUB Computing Club",
+    "organization": "Department of CSE, State University of Bangladesh",
+    "highlights": [
+      {
+        "text": "Lead and coordinate 30+ active members in academic and technical activities",
+        "icon": "Users"
+      },
+      {
+        "text": "Organized workshops and seminars on AI, programming and software development",
+        "icon": "Presentation"
+      },
+      {
+        "text": "Mentored junior students in project development and research",
+        "icon": "GraduationCap"
+      },
+      {
+        "text": "Supported national-level programming and tech competitions",
+        "icon": "Trophy"
+      }
+    ]
+  },
+  {
+    "period": "2021 to present",
+    "role": "Tutor",
+    "highlights": [
+      {
+        "text": "Taught 100+ students at SSC and HSC levels with a focus on structured problem-solving",
+        "icon": "BookOpen"
+      },
+      {
+        "text": "Built communication and mentoring skills through one-on-one instruction",
+        "icon": "MessagesSquare"
+      }
+    ]
+  },
+  {
+    "period": "2026",
+    "role": "Campus Ambassador, bKash presents SUST CSE Carnival 2026",
+    "organization": "Organized by CSE Society, Shahjalal University of Science and Technology (SUST)",
+    "highlights": [
+      {
+        "text": "Represented the event on campus and drove student participation",
+        "icon": "Megaphone"
+      },
+      {
+        "text": "Coordinated promotional and logistical efforts",
+        "icon": "Handshake"
+      }
+    ]
+  }
+]

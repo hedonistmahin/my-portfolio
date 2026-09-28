@@ -1,0 +1,26 @@
+[
+  {
+    "category": "Programming",
+    "skills": ["Python", "C", "C++", "Java", "JavaScript"]
+  },
+  {
+    "category": "Core CS",
+    "skills": ["Data Structures and Algorithms", "OOP", "Parallel Programming (OpenMP, MPI)"]
+  },
+  {
+    "category": "Machine learning and data",
+    "skills": ["NumPy", "Pandas", "Matplotlib", "Seaborn", "CNNs", "XAI (SHAP, LIME)", "Federated Learning"]
+  },
+  {
+    "category": "Web",
+    "skills": ["HTML", "CSS", "JavaScript", "React (learning)", "Firebase"]
+  },
+  {
+    "category": "Networking",
+    "skills": ["OSI and TCP/IP models", "TCP vs UDP", "IP addressing", "DNS", "HTTP/HTTPS", "ports", "REST API fundamentals"]
+  },
+  {
+    "category": "Tools",
+    "skills": ["Git", "Google Colab", "Jupyter Notebook", "VS Code", "Android Studio"]
+  }
+]

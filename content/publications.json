@@ -1,0 +1,44 @@
+[
+  {
+    "title": "A Deep Space Flexible Blind Convolutional Neural Network for Super Compressed JPEG Artifacts Removal",
+    "venue": "QPAIN 2025",
+    "year": 2025,
+    "status": "indexed",
+    "tags": ["Computer Vision", "Deep Learning"]
+  },
+  {
+    "title": "FedMaternal-XAI: A Privacy-Preserving Federated Learning Framework with Cross-Method Explainability for High-Risk Pregnancy Classification",
+    "venue": "2026 IEEE International Conference on Future Machine Learning and Data Science (FMLDS 2026), Kobe, Japan",
+    "year": 2026,
+    "status": "accepted",
+    "tags": ["Federated Learning", "XAI", "Healthcare"]
+  },
+  {
+    "title": "Evaluating Digital Integrity in Healthcare AI: Explainable Boosting Machines (EBM) vs. Model-Agnostic Interpretability in Multi-Class Clinical Risk Assessment",
+    "venue": "2026 IEEE International Conference on Future Machine Learning and Data Science (FMLDS 2026), Kobe, Japan",
+    "year": 2026,
+    "status": "accepted",
+    "tags": ["Explainable AI", "Clinical Risk", "Interpretability"]
+  },
+  {
+    "title": "Privacy-Preserving and Explainable Federated Learning for Heart Disease Prediction Using Differential Privacy and Explanation Consistency Analysis",
+    "venue": "5th IEEE International Conference on Biomedical Engineering, Computer and Information Technology for Health (BECITHCON 2026)",
+    "year": 2026,
+    "status": "accepted",
+    "tags": ["Differential Privacy", "Federated Learning", "Heart Disease"]
+  },
+  {
+    "title": "Diag-Tactics Arena: A Comparative Study of Minimax and Alpha-Beta Pruning Under Dynamic Hazard Constraints in a Diagonal-Win Board Game",
+    "venue": "3rd IEEE International Conference on Computing, Applications and Systems (COMPAS 2026)",
+    "year": 2026,
+    "status": "accepted",
+    "tags": ["Game Theory", "Minimax", "Algorithms"]
+  },
+  {
+    "title": "Calibration Over Accuracy: A Statistically Validated, Uncertainty-Aware Framework for Dengue Diagnosis Using Routine CBC Data",
+    "venue": "3rd IEEE International Conference on Computing, Applications and Systems (COMPAS 2026)",
+    "year": 2026,
+    "status": "accepted",
+    "tags": ["Model Calibration", "Dengue Diagnosis", "Uncertainty"]
+  }
+]

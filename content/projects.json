@@ -1,0 +1,21 @@
+[
+  {
+    "slug": "banksync",
+    "title": "BankSync",
+    "description": "A web-based banking system for managing accounts, performing transactions and securely accessing financial information.",
+    "liveUrl": "https://banksync.onrender.com",
+    "githubUrl": "https://github.com/hedonistmahin/bankSync"
+  },
+  {
+    "slug": "medroute",
+    "title": "MedRoute",
+    "description": "A mobile app connecting users with ambulance support, blood banks, ICU availability and pharmacies in real time.",
+    "githubUrl": "https://github.com/hedonistmahin/medroute2"
+  },
+  {
+    "slug": "sonali-fasal",
+    "title": "Sonali Fasal",
+    "description": "An agricultural assistance app providing crop price prediction and plant disease detection to support farmers' decisions.",
+    "githubUrl": "https://github.com/hedonistmahin/intelligent-agriculture-system"
+  }
+]

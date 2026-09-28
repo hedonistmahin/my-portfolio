@@ -1,0 +1,28 @@
+{
+  "name": "Md. Modabbir Hossain Mahin",
+  "initials": "MM",
+  "title": "AI Researcher & Aspiring Lecturer",
+  "bioLead": "CSE graduate and AI researcher building explainable, privacy-preserving machine learning for healthcare. I am looking for a lecturer position where research supervision and teaching go together.",
+  "aboutParagraphs": [
+    "I graduated in Computer Science and Engineering from State University of Bangladesh (2022 to 2026) with a CGPA of 4.00. My research focuses on explainable AI, federated learning and clinical decision support, with six papers presented or accepted at IEEE conferences.",
+    "I have tutored more than 100 SSC and HSC students since 2021 and lead 30+ members as President of the SUB Computing Club, where I organize workshops and mentor junior students on projects and research."
+  ],
+  "researchInterests": [
+    { "name": "Explainable AI", "highlight": false },
+    { "name": "Federated Learning", "highlight": false },
+    { "name": "Differential Privacy", "highlight": false },
+    { "name": "Clinical Risk Prediction", "highlight": true },
+    { "name": "Computer Vision", "highlight": true },
+    { "name": "Model Calibration", "highlight": true }
+  ],
+  "heroFacts": {
+    "cgpa": "4.00",
+    "studentsTutored": "100+",
+    "clubMembersLed": "30+"
+  },
+  "heroChips": [
+    "Explainable AI",
+    "Federated Learning",
+    "Clinical Decision Support"
+  ]
+}
