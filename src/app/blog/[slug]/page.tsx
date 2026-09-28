@@ -5,11 +5,26 @@ import { MDXRemote } from 'next-mdx-remote/rsc'
 import { GlassCard } from '@/components/ui/GlassCard'
 import { ArrowLeft } from 'lucide-react'
 
+// Dynamic params এবং Dynamic rendering হ্যান্ডলিং
+export const dynamic = 'force-static'
+export const dynamicParams = false
+
 export async function generateStaticParams() {
-  const posts = getBlogPosts()
-  return posts.map((post) => ({
-    slug: post.slug,
-  }))
+  try {
+    const posts = getBlogPosts() || []
+
+    // যদি কোনো পোস্ট না থাকে, তবে একটি ফলব্যাক স্লগ রিটার্ন করবে যেন বিল্ড না আটকে যায়
+    if (!posts || posts.length === 0) {
+      return [{ slug: 'default' }]
+    }
+
+    return posts.map((post) => ({
+      slug: String(post.slug),
+    }))
+  } catch (error) {
+    console.error('Error loading blog posts for generateStaticParams:', error)
+    return [{ slug: 'default' }]
+  }
 }
 
 export default async function BlogPostPage({
