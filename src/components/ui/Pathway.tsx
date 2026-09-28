@@ -370,38 +370,7 @@ export function Pathway() {
                 }}
               />
 
-              {/* Tick mark pointing outward */}
-              <line
-                x1={node.x}
-                y1={node.y}
-                x2={node.side === 'left' ? node.x - (isMobile ? 10 : 14) : node.x + (isMobile ? 10 : 14)}
-                y2={node.y}
-                stroke={isOrange ? 'var(--orange)' : 'var(--green)'}
-                strokeWidth="0.6"
-                strokeLinecap="round"
-                opacity={reached ? 0.55 : 0.2}
-              />
 
-              {/* Section label */}
-              {node.label && (
-                <text
-                  x={node.side === 'left' ? node.x - (isMobile ? 14 : 20) : node.x + (isMobile ? 14 : 20)}
-                  y={node.y + (isMobile ? 1.2 : 0.8)}
-                  fontSize={isMobile ? 3.2 : 2.35}
-                  fontFamily="var(--font-dm-sans), system-ui, sans-serif"
-                  fontWeight="500"
-                  fill={reached ? (isOrange ? 'var(--orange)' : 'var(--green)') : 'var(--mute)'}
-                  opacity={reached ? 0.92 : 0.35}
-                  textAnchor={node.side === 'left' ? 'end' : 'start'}
-                  dominantBaseline="middle"
-                  style={{
-                    transition: 'fill 500ms ease-out, opacity 500ms ease-out',
-                    letterSpacing: '0.01em',
-                  }}
-                >
-                  {node.label}
-                </text>
-              )}
             </g>
           )
         })}
